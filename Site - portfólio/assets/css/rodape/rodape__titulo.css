@@ -1,0 +1,10 @@
+.rodape__titulo{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: lowercase;
+    width: 15rem;
+}

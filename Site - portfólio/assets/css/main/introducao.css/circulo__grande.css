@@ -1,0 +1,10 @@
+.circulo__grande{
+    z-index: 1;
+    position: relative;
+    left: 80%;
+    background: var(--verde-limao);
+    box-shadow: 25px 25px 20px rgba(0, 0, 0, 0.5), inset -67px -51px 45px #175202, inset 28px 40px 30px rgba(190, 251, 168, 0.65);
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+}

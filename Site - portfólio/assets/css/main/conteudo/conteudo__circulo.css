@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10rem;
+    margin-top: 3rem;
+}
+.conteudo__circulo{
+    width: 25rem;
+    height: 25rem;
+    background: var(--cinza-escuro);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: -10px -15px 30px rgba(86, 86, 86, 0.35), 10px 15px 30px rgba(0, 0, 0, 0.35);
+    border-radius: 50%;
+    margin-bottom: 5rem;
+}

@@ -1,0 +1,10 @@
+.rodape__contato{
+    text-decoration: none;
+    color: var(--branco-cinza);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    padding: 0.3rem 0;
+    
+}

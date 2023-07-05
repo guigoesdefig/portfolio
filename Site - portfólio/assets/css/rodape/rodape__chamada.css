@@ -1,0 +1,9 @@
+.rodape__chamada{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 0.3rem;
+    text-transform: lowercase;
+}

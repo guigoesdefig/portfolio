@@ -1,0 +1,19 @@
+.contato__link{
+    color: var(--branco-cinza);
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    width: 50%;
+    text-decoration: none;
+    margin-right: 1.25rem;
+    padding: 0.2rem;
+    transition: 0.4s;
+    
+}
+.contato__link:hover{
+    background: var(--verde-limao);
+    border-radius: 0.30rem;
+    
+    
+
+}

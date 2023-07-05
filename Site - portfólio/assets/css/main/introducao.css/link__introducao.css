@@ -1,0 +1,13 @@
+.link__introducao{
+    font-family: 'Montserrat';
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--verde-limao);
+    text-decoration: none;
+    padding: 1rem 1rem 1rem 0;
+}
+.link__introducao:hover{
+    color: #31b900be;
+}

@@ -1,0 +1,12 @@
+:root{
+    /* colocar as variáveis: como por exemplo, cores, fonts, tamanhos, etc*/
+    --verde-limao: #30B900;
+    --cinza-medio:#34353A;
+    --branco-cinza:#EBEBEB;
+    --cinza-escuro:#2E2F34;
+    
+}
+body{
+    background: var(--cinza-medio);
+    
+}

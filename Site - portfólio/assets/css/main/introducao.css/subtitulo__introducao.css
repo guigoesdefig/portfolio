@@ -1,0 +1,9 @@
+.subtitulo__introducao{
+    color: var(--branco-cinza);
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    width: 16rem;
+}

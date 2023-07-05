@@ -1,0 +1,16 @@
+
+.conteudo__nome{
+    position: absolute;
+    right: 55%;
+    top: 17rem;
+    color: var(--branco-cinza);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    width: 12rem;
+    font-size: 2rem;
+    padding: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: rgba(30, 30, 30, 0.75);
+}

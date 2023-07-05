@@ -1,0 +1,11 @@
+.circulo__medio{
+    background: var(--verde-limao);
+    box-shadow: 50px 50px 20px rgba(0, 0, 0, 0.55), inset -30px -35px 30px #175202, inset 10px 15px 30px #BEFBA8;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    z-index: 2;
+    top: -5rem;
+    left: 80%;
+    position: relative;
+}

@@ -1,0 +1,9 @@
+.texto__introducao{
+    color: var(--branco-cinza);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    width: 90%;
+    
+}

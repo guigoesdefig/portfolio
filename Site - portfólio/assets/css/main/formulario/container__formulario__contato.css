@@ -1,0 +1,15 @@
+.container__formulario__contato{
+    margin-top: 1.25rem;
+    display: flex;
+    align-items: center;
+}
+.container__formulario__contato label{
+    margin-right: 0.4rem;
+    margin-top: 0;
+}
+.container__formulario__contato label:nth-child(3){
+    margin-left: 1rem;
+}
+.container__formulario__contato input{
+    width: 37%;
+}

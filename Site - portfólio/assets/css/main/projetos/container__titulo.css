@@ -1,0 +1,5 @@
+.container__titulo{
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+}

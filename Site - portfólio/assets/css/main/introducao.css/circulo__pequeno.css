@@ -1,0 +1,11 @@
+.circulo__pequeno{
+    background: #30B900;
+    box-shadow: 25px 25px 20px rgba(0, 0, 0, 0.45), inset -20px -20px 17px #175202, inset 5px 5px 25px #BEFBA8;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    z-index: 3;
+    top: -12rem;
+    left: 95%;
+    position: relative;
+}
